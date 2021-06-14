@@ -1,7 +1,7 @@
 <h1>Face_Detection</h1><br>
 <h2>Face Detection using Python</h2><br>
 
-This projects detects the persons face in the live streaming camera input.<br>
+This projects detects the person's face in the live streaming camera input.<br>
 
 <h2>Technologies Used : </h2>
 1. Python 3.7<br>
